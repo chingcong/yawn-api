@@ -1,0 +1,8 @@
+bson==0.5.10
+environ-config==24.1.0
+numpy==2.1.2
+pydantic==2.9.2
+py-healthcheck==1.10.1
+simplejson==3.19.3
+tornado==6.4.1
+python-dotenv==1.0.1
