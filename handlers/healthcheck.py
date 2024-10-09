@@ -11,7 +11,7 @@ def health_db():
 
 def application_data():
     return {
-        "name": "YAWN",
+        "name": "yawn-tornado",
     }
 
 health = HealthCheck(checkers=[health_redis, health_db])
